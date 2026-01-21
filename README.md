@@ -135,3 +135,7 @@ Disesuaikan dengan daftar pustaka pada laporan UAS
 
 ## 📎 Repository
 🔗 https://github.com/nonawedya/Data-penjualan-berdasarkan-studi-kasus-nota-transaksi-indomaret
+
+
+![My GitHub QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/nonawedya/Data-penjualan-berdasarkan-studi-kasus-nota-transaksi-indomaret
+
